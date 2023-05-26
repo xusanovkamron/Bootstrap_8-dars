@@ -1,0 +1,16 @@
+.container{
+    width: 500px;
+    height: 1000px;
+}
+.rot{
+    transform: rotate(-90deg);
+    margin-left: 270px;
+    padding: 100px;
+    padding-bottom: 300px;
+}
+.hg{
+    margin-left: 100px;
+}
+.gfh{
+    margin-left: 300px;
+}
